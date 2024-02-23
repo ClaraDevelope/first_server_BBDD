@@ -39,13 +39,11 @@ const seriesData = [
       'https://cdn.kobo.com/book-images/db12b47d-f8e0-4660-8ea1-e3a6dd9af1ec/1200/1200/False/the-crown-20.jpg'
   },
   {
-    _id: '65d8673a9453bf203e4cf325',
     name: 'Orphan Black',
     year: '2013',
     gender: 'Science Fiction',
     image:
-      'https://m.media-amazon.com/images/M/MV5BYmMyNWExOGItMThmNi00NDFkLTk0ZmUtMGQyN2ZjODlmYmE2XkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_FMjpg_UX1000_.jpg',
-    __v: { $numberInt: '0' }
+      'https://m.media-amazon.com/images/M/MV5BYmMyNWExOGItMThmNi00NDFkLTk0ZmUtMGQyN2ZjODlmYmE2XkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_FMjpg_UX1000_.jpg'
   }
 ]
 
