@@ -11,7 +11,7 @@ const getSeries = async (req, res, netxt) => {
 const getSeriesById = async (req, res, next) => {
   try {
     const { id } = req.params
-    const series = await SERIES.findById()
+    const series = await SERIES.findById(id)
     return res.json(series)
   } catch (error) {
     return res.status(400).json('Error al hacer el get por ID')
